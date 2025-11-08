@@ -11,18 +11,6 @@
 
 - 🤝 I’m looking for help with **enhancing my skills in web development, networking, and software projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/owaishosseini](https://github.com/owaishosseini)
-
-- 📝 I regularly write articles on [📝 I plan to write articles on programming, web development, networking, and AI soon.](📝 I plan to write articles on programming, web development, networking, and AI soon.)
-
-- 💬 Ask me about **Programming, Web Development, Networking, AI, and software development projects.**
-
-- 📫 How to reach me **✉️ Email: owaishossainy@gmail.com 🔗 LinkedIn: linkedin.com/in/owaishosseini**
-
-- 📄 Know about my experiences [Web Development, Networking, AI projects, and academic software development work](Web Development, Networking, AI projects, and academic software development work)
-
-- ⚡ Fun fact **⚡ Fun fact: I love solving coding challenges late at night while drinking tea ☕**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/owaishossainy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owaishossainy" height="30" width="40" /></a>
