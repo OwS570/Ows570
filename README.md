@@ -1,3 +1,5 @@
+![Coding Banner](https://media.licdn.com/dms/image/v2/D4D12AQH4BOAMUaaqVA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1662722162724?e=2147483647&v=beta&t=MmVQuQykNOoNv207kws04zAaWwUk7j4ozNMk1yzk76o.gif)
+
 <h1 align="center">Hi 👋, I'm Owais Hussaini</h1>
 <h3 align="center">Bachelor’s in Computer Science | COMSATS University, Pakistan | Afghan Student</h3>
 
